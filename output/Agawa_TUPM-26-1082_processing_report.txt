@@ -1,0 +1,12 @@
+PYTHON FILE-HANDLING PROCESSING REPORT
+--------------------------------------
+Last Name: Agawa
+Student ID: TUPM-26-1082
+Seed Digit: 2
+ID Sum: 19
+Verification Value: 97
+Dataset Sample Size: 69
+Valid Records: 69
+Average Global Active Power: 4.041
+JSON File: Agawa_TUPM-26-1082_record.json
+Backup File: Agawa_TUPM-26-1082_record.csv

@@ -1,5 +1,4 @@
-.venv
-_pycache_/
-*._pyc
+.venv/
+__pycache__/
 .ipynb_checkpoints/
-data/
+data/household_power_consumption.txt
